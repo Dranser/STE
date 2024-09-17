@@ -1,7 +1,7 @@
 ## How to Use
 
 1. **Opening the KSL Menu:**
-   - The KSL menu can be accessed by pressing **F6** by default during gameplay.
+   - The KSL menu can be accessed by pressing **F6** by default.
    - This menu allows you to manage mods, including the **STE** mod for suspension tuning.
 
 2. **Mod Availability:**
