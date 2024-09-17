@@ -1,7 +1,7 @@
 ## How to Install
 
 1. **Download the Mod:**
-   - Navigate to the [Releases](https://github.com/your-repository/releases) section of this GitHub repository.
+   - Navigate to the [Releases]([https://github.com/your-repository/releases](https://github.com/Dranser/STE/releases)) section of this GitHub repository.
    - Download the latest version of the mod archive: `STE_5.0.0_win.zip`.
 
 2. **Extract the Archive:**
@@ -10,7 +10,7 @@
    - Extract the contents of the archive.
 
 3. **Install the KSL Mod Loader:**
-   - If you haven't already, download and install the **KSL Mod Loader** from the official [KSL Mod Loader page](https://ksl-mod-loader.com).
+   - If you haven't already, download and install the **KSL Mod Loader** from the official [KSL Mod Loader page](https://github.com/trbflxr/ksl).
    - Follow the instructions provided by KSL Mod Loader for proper setup.
 
 4. **Copy Mod Files:**
@@ -20,7 +20,7 @@
 5. **Paste Files into Game Directory:**
    - Navigate to your **CarX Drift Racing Online** installation directory.
    - The default location is usually:  
-     `C:\Program Files (x86)\Steam\steamapps\common\CarX Drift Racing Online\`
+     `\Steam\steamapps\common\CarX Drift Racing Online\`
    - Inside this directory, go to the subfolder:  
      `\kino\mods`
 
@@ -30,6 +30,3 @@
 
 7. **Launch the Game:**
    - Start **CarX Drift Racing Online**.
-   - The mod will automatically be loaded through the **KSL Mod Loader**, and you'll be able to access its features within the game.
-
-If you encounter any issues, please refer to the troubleshooting guide or reach out via the [Issues](https://github.com/your-repository/issues) section.
