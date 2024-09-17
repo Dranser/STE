@@ -10,3 +10,4 @@ This project is a mod for **CarX Drift Racing Online**, developed for the **KSL*
 
 ## Installation and Usage
 To install the mod, download and install the **KSL** mod loader, then place the mod files into the appropriate directory.
+For full details on installation and usage, please refer to the  [How to Install](https://github.com/Dranser/STE/blob/master/Guide/how_to_install.md) section of the repository.
